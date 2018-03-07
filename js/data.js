@@ -1,6 +1,8 @@
-const studentsList = [
-  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27
-]
+// const studentsList = [
+//   1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27
+// ];
+
+const studentsList = [];
 
 const questionsList = [
   '¿En qué deporte creés que le podrías ganar a tu mentor/a?',
@@ -29,4 +31,4 @@ const questionsList = [
   'Si pudieras tener flujo ilimitado de una sola cosa, ¿qué elegirías?',
   'Qué decías cuando eras chico/a y te preguntaban: ¿qué querés ser de grande?',
   '¿Cual es tu película favorita de Star Wars?'
-]
+];
